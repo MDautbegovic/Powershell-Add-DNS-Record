@@ -24,4 +24,3 @@ AddDNS
 Write-Host "Successfully added"
 }
 
-#Get-DnsServerResourceRecord -ZoneName "mirza.local"
